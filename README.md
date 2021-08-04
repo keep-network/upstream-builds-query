@@ -1,5 +1,7 @@
 # Upstream Builds Query Action
 
+:warning: **This project is DEPRECATED.** The action has been moved to [the keep-network/ci repository](https://github.com/keep-network/ci/tree/main/actions/upstream-builds-query)!
+
 [![build](https://github.com/keep-network/upstream-builds-query/actions/workflows/build.yml/badge.svg)](https://github.com/keep-network/upstream-builds-query/actions/workflows/build.yml)
 [![test](https://github.com/keep-network/upstream-builds-query/actions/workflows/test.yml/badge.svg)](https://github.com/keep-network/upstream-builds-query/actions/workflows/test.yml)
 
